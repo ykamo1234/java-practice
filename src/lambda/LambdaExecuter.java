@@ -2,6 +2,12 @@ package lambda;
 
 import java.util.List;
 
+/**
+ * Javadocのためのサンプルクラス
+ *
+ * @author Yuto K
+ * @version 1.0
+ */
 public class LambdaExecuter {
 
     private LoopOutput loopOutput;
